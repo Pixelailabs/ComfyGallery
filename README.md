@@ -56,3 +56,20 @@ This tool is incredibly useful for remembering which prompts and settings were u
 
 ```bash
 git clone https://github.com/yourusername/ComfyGallerie.git
+ ```
+4. **Getting Started**
+
+<p align="center">
+  <img src="https://pixelailabs.com/wp-content/uploads/2024/11/start-comfygallerie.jpg" alt="ComfyGallerie Screenshot" width="1080">
+</p>
+
+<p align="center">
+  <img src="https://pixelailabs.com/wp-content/uploads/2024/11/start-comfygallerie-2.jpg" alt="ComfyGallerie Screenshot" width="1080">
+</p>
+
+### **Need Help?**
+
+If you encounter any issues or have questions:
+
+Email: aiconomist@pixelailabs.com
+Website: https://pixelailabs.com
