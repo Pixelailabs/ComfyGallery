@@ -1,8 +1,8 @@
-# ComfyGallerie
+# ComfyGallery
 <p align="center">
   <img src="https://pixelailabs.com/wp-content/uploads/2024/11/comfyGallerie2.jpg" alt="ComfyGallerie Screenshot" width="1080">
 </p>
-ComfyGallerie is an image library for **ComfyUI** generated images. You can simply open a folder containing ComfyUI-generated images and retrieve detailed information about each image, such as:
+ComfyGallery is an image library for **ComfyUI** generated images. You can simply open a folder containing ComfyUI-generated images and retrieve detailed information about each image, such as:
 
 - **Open Folder: Select your ComfyUI output folder (up to 50 images per page).**
 - **Navigate Open Folders: Open and switch between multiple folders.**
