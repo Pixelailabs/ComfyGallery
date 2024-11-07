@@ -7,7 +7,7 @@ export function SocialLinks() {
   return (
     <div className="mt-auto p-4 text-center space-y-6">
       <p className="text-sm">
-        ComfyGallerie made by <a href="https://pixelailabs.com" target="_blank" rel="noopener noreferrer" className="text-blue-600 underline">PixelAILabs.com</a>. For more information, visit the links below.
+        ComfyGallery made by <a href="https://pixelailabs.com" target="_blank" rel="noopener noreferrer" className="text-blue-600 underline">PixelAILabs.com</a>. For more information, visit the links below.
       </p>
 
       <div className="flex justify-center gap-4">
