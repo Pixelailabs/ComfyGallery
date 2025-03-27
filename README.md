@@ -1,6 +1,6 @@
 # ComfyGallery
 <p align="center">
-  <img src="https://pixelailabs.com/wp-content/uploads/2024/11/comfyGallerie2.jpg" alt="ComfyGallerie Screenshot" width="1080">
+  <img src="https://blog.pixelailabs.com/wp-content/uploads/2024/11/comfyGallerie2.jpg" alt="ComfyGallerie Screenshot" width="1080">
 </p>
 ComfyGallery is an image library for **ComfyUI** generated images. You can simply open a folder containing ComfyUI-generated images and retrieve detailed information about each image, such as:
 
@@ -55,16 +55,16 @@ This tool is incredibly useful for remembering which prompts and settings were u
 ### **Clone the Repository**
 
 ```bash
-git clone https://github.com/yourusername/ComfyGallerie.git
+git clone https://github.com/Pixelailabs/ComfyGallerie.git
  ```
 4. **Getting Started**
 
 <p align="center">
-  <img src="https://pixelailabs.com/wp-content/uploads/2024/11/start-comfygallerie.jpg" alt="ComfyGallerie Screenshot" width="1080">
+  <img src="https://blog.pixelailabs.com/wp-content/uploads/2024/11/start-comfygallerie.jpg" alt="ComfyGallerie Screenshot" width="1080">
 </p>
 
 <p align="center">
-  <img src="https://pixelailabs.com/wp-content/uploads/2024/11/start-comfygallerie-2.jpg" alt="ComfyGallerie Screenshot" width="1080">
+  <img src="https://blog.pixelailabs.com/wp-content/uploads/2024/11/start-comfygallerie-2.jpg" alt="ComfyGallerie Screenshot" width="1080">
 </p>
 
 ### **Need Help?**
